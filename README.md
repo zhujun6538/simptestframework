@@ -25,8 +25,8 @@
 测试报告
 ![测试用例管理](https://github.com/zhujun6538/simptestframework/blob/master/mytestproj/data/img/csbg.png) 
 
-# 四、试用对象：
-自动化测试新手
+# 四、安装步骤：
+安装requirements.txt中需要的包；更改mytestproj/settings中DATABASES配置；django常规部署(migrate,makemigrations,createsuperuser)；runserver启动进入http://127.0.0.1:8000/simptest/
 
 
 
